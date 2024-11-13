@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GestionGranaderia.Campo">
+    <Position X="8.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAACAAAAAACAAAAAAA=</HashCode>
+      <FileName>Campo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="listaTerneros" />
+      <Property Name="listaVacas" />
+      <Property Name="listaToros" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="GestionGranaderia.Vaca">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAgAAAAAAAAAAAAQAgAAAEAQAAEAACAGAQA=</HashCode>
+      <FileName>Vaca.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="historialPartos" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="GestionGranaderia.Animal">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAEAAAQAACAAAAAAAAAAAAAAAAAAEIABBAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionGranaderia.Toro">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Toro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionGranaderia.Ternero">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAIAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ternero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionGranaderia.Parto">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Parto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

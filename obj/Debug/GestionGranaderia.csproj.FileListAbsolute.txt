@@ -1,0 +1,33 @@
+D:\Users\lauta\OneDrive\Documentos\✏ ESTUDIOS\UNIVERSIDAD\2° AÑO\PARADIGMAS DE PROGRAMACION\TRABAJO FINAL\GestionGranaderia\bin\Debug\GestionGranaderia.exe.config
+D:\Users\lauta\OneDrive\Documentos\✏ ESTUDIOS\UNIVERSIDAD\2° AÑO\PARADIGMAS DE PROGRAMACION\TRABAJO FINAL\GestionGranaderia\bin\Debug\GestionGranaderia.exe
+D:\Users\lauta\OneDrive\Documentos\✏ ESTUDIOS\UNIVERSIDAD\2° AÑO\PARADIGMAS DE PROGRAMACION\TRABAJO FINAL\GestionGranaderia\bin\Debug\GestionGranaderia.pdb
+D:\Users\lauta\OneDrive\Documentos\✏ ESTUDIOS\UNIVERSIDAD\2° AÑO\PARADIGMAS DE PROGRAMACION\TRABAJO FINAL\GestionGranaderia\obj\Debug\GestionGranaderia.csproj.AssemblyReference.cache
+D:\Users\lauta\OneDrive\Documentos\✏ ESTUDIOS\UNIVERSIDAD\2° AÑO\PARADIGMAS DE PROGRAMACION\TRABAJO FINAL\GestionGranaderia\obj\Debug\GestionGranaderia.frmMain.resources
+D:\Users\lauta\OneDrive\Documentos\✏ ESTUDIOS\UNIVERSIDAD\2° AÑO\PARADIGMAS DE PROGRAMACION\TRABAJO FINAL\GestionGranaderia\obj\Debug\GestionGranaderia.Properties.Resources.resources
+D:\Users\lauta\OneDrive\Documentos\✏ ESTUDIOS\UNIVERSIDAD\2° AÑO\PARADIGMAS DE PROGRAMACION\TRABAJO FINAL\GestionGranaderia\obj\Debug\GestionGranaderia.csproj.GenerateResource.cache
+D:\Users\lauta\OneDrive\Documentos\✏ ESTUDIOS\UNIVERSIDAD\2° AÑO\PARADIGMAS DE PROGRAMACION\TRABAJO FINAL\GestionGranaderia\obj\Debug\GestionGranaderia.csproj.CoreCompileInputs.cache
+D:\Users\lauta\OneDrive\Documentos\✏ ESTUDIOS\UNIVERSIDAD\2° AÑO\PARADIGMAS DE PROGRAMACION\TRABAJO FINAL\GestionGranaderia\obj\Debug\GestionGranaderia.exe
+D:\Users\lauta\OneDrive\Documentos\✏ ESTUDIOS\UNIVERSIDAD\2° AÑO\PARADIGMAS DE PROGRAMACION\TRABAJO FINAL\GestionGranaderia\obj\Debug\GestionGranaderia.pdb
+D:\Users\lauta\OneDrive\Documentos\✏ ESTUDIOS\UNIVERSIDAD\2° AÑO\PARADIGMAS DE PROGRAMACION\TRABAJO FINAL\GestionGranaderia\obj\Debug\GestionGranaderia.FormAgregarVaca.resources
+C:\Users\lulir\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.csproj.AssemblyReference.cache
+C:\Users\lulir\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.FormAgregarVaca.resources
+C:\Users\lulir\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.frmMain.resources
+C:\Users\lulir\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.Properties.Resources.resources
+C:\Users\lulir\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.csproj.GenerateResource.cache
+C:\Users\lulir\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.csproj.CoreCompileInputs.cache
+C:\Users\lulir\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.exe
+C:\Users\lulir\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.pdb
+C:\Users\lulir\Downloads\GestionGranaderia\bin\Debug\GestionGranaderia.exe.config
+C:\Users\lulir\Downloads\GestionGranaderia\bin\Debug\GestionGranaderia.exe
+C:\Users\lulir\Downloads\GestionGranaderia\bin\Debug\GestionGranaderia.pdb
+D:\Users\lauta\Downloads\GestionGranaderia\bin\Debug\GestionGranaderia.exe.config
+D:\Users\lauta\Downloads\GestionGranaderia\bin\Debug\GestionGranaderia.exe
+D:\Users\lauta\Downloads\GestionGranaderia\bin\Debug\GestionGranaderia.pdb
+D:\Users\lauta\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.csproj.AssemblyReference.cache
+D:\Users\lauta\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.Properties.Resources.resources
+D:\Users\lauta\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.csproj.GenerateResource.cache
+D:\Users\lauta\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.csproj.CoreCompileInputs.cache
+D:\Users\lauta\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.exe
+D:\Users\lauta\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.pdb
+D:\Users\lauta\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.FormNuevaVaca.resources
+D:\Users\lauta\Downloads\GestionGranaderia\obj\Debug\GestionGranaderia.PantallaPrincipal.resources
